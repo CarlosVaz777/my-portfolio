@@ -1,0 +1,178 @@
+/*card proyectos*/
+.chip-img {
+    display: inline-block;
+    padding: 2px 2px;
+    height: 30px;
+    width: 30px;
+    margin: 1px;
+    padding: 1px;
+    object-fit: cover;
+  }
+
+  .img-icon{
+    width: 20%;
+    height: 20%;
+    object-fit: cover;
+    margin: 3px;
+  }
+
+  .chip-php {
+    padding: 0 4px;
+    height: 35px;
+    font-size: 15px;
+    line-height: 30px;
+    border-radius: 10px;
+    background-color: #7476B1;
+    color: #fff;
+    float: left;
+    margin:  6px;
+    text-align: center;
+  }
+  .chip-codeigniter{
+    padding: 0 4px;
+    height: 35px;
+    font-size: 15px;
+    line-height: 30px;
+    border-radius: 10px;
+    background-color: #DD4814;
+    color: #fff;
+    float: left;
+    margin:  6px;
+    text-align: center;
+  }
+
+  .chip-slq{
+    padding: 0 4px;
+    height: 35px;
+    font-size: 15px;
+    line-height: 30px;
+    border-radius: 10px;
+    background-color: #0078D4;
+    color: #fff;
+    float: left;
+    margin:  6px;
+    text-align: center;
+  }
+
+  .chip-boostrap{
+    padding: 0 4px;
+    height: 35px;
+    font-size: 15px;
+    line-height: 30px;
+    border-radius: 10px;
+    background-color: #ffffff;
+    float: left;
+    margin:  6px;
+    text-align: center;
+    border: 1px solid #7010EF;
+  }
+  .chip-html{
+    padding: 0 4px;
+    height: 35px;
+    font-size: 15px;
+    line-height: 30px;
+    border-radius: 10px;
+    background-color: #ffffff;
+    border: 1px solid #7010EF;
+    color: #000;
+    float: left;
+    margin:  6px;
+    text-align: center;
+  }
+  .chip-css{
+    padding: 0 4px;
+    height: 35px;
+    font-size: 15px;
+    line-height: 30px;
+    border-radius: 10px;
+    background-color: #ffffff;
+    border: 1px solid #7010EF;
+    color: #000;
+    float: left;
+    margin:  6px;
+    text-align: center;
+  }
+  
+  .chip {
+    padding: 0 4px;
+    height: 35px;
+    font-size: 13px;
+    line-height: 35px;
+    border-radius: 15px;
+    background-color: #5251515d;
+    float: left;
+    margin:  5px;
+    justify-content: center;
+  }
+  
+  .chip img:hover{
+    box-shadow: 5px 1 deeppink;
+      box-shadow: #000;
+      transition: all 0.4s ease-in-out;
+  }
+
+  .chip-list{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    list-style-type: none;
+    padding: 0 3px;
+    margin: 4px;
+    width: 360px;
+    color: #000;
+  }
+  
+  .card-container{
+    flex-wrap: wrap;
+    display: flex;
+    list-style: none;
+    flex-shrink: 3;
+    justify-content: center;
+  }
+  
+  .card2{
+    border-radius: 18px;
+    box-shadow: 0 4px 8px 0 rgba(248, 248, 248, 0.2);
+    transition: 0.3s;
+    display: flex;
+    flex-direction: column;
+    overflow: hidden;
+    margin: 15px;
+    backdrop-filter: blur(10px); 
+    text-align: center;
+    align-items: center;
+    border: #000;
+    color: #ffffff;
+    width: 360px;
+  }
+  
+  .card2:hover{
+      box-shadow: 5px 1 deeppink;
+      transition: all 0.4s ease-in-out;
+      filter: drop-shadow(16px 16px 16px rgba(248, 248, 248, 0.2));
+  }
+  
+  .texto-pt{
+    font-family:'Courier New', Courier, monospace;
+    font-weight: bold;
+    color: #fff;
+  }
+  
+  .img-proyecto{
+    width: 20pc;
+    height: 10pc;
+    margin: 5px;
+    border-radius: 5px;
+    object-fit: cover;
+  }
+
+  .img-proyecto-candy{
+    width: 120px;
+    height: 210px;
+    margin: 5px;
+    border-radius: 5px;
+    object-fit: cover;
+  }
+
