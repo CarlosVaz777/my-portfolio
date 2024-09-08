@@ -10,7 +10,8 @@ export default function Contactame () {
     return(
         <section className='my-contact'>
             <div >
-                <h3 className='t-ct'>Contactame</h3>  
+                <h3 className='t-ct'>Carlos Enrique Vazquez Iglesias</h3>  
+                <h4 className='t-ct'>Desarrollador Front-End</h4>
             </div>
 
             <div>
