@@ -28,7 +28,6 @@ export default function Contactame () {
                     <a href="" target="_blank" rel="noopener noreferrer" className='text-cv'>
                     < Image src="/img/whatsapp.png" width={40} height={40} alt="Html" className='icon-up'/>
                     </a> 
-                    243 434 47 62 
                 </span>
             </div>
 
