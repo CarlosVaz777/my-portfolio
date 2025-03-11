@@ -1,10 +1,10 @@
 import Image from "next/image";
-import "../style/proyectos.css";
+import '../style/gobal.css'
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faPhp } from "@fortawesome/free-brands-svg-icons";
 import { faFire, faFireFlameCurved } from "@fortawesome/free-solid-svg-icons";
 
-export default function MisProyectos (){
+export default function ProyectosComponent (){
 return(
     <div>
         <div className="ti-tulo-p">

@@ -1,7 +1,6 @@
-import "../app/page.module.css";
-import "../style/educacion.css";
+import '../style/gobal.css'
 
-export default function MiEducacion () {
+export default function EducacionComponent () {
     return(
         <div >
             <div>

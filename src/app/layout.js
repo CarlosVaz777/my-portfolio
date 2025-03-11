@@ -5,7 +5,7 @@ import "./page.module.css";
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata = {
-  title: "carlose-vi",
+  title: "cevidev",
 };
 
 export default function RootLayout({ children }) {

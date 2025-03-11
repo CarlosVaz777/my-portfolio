@@ -1,10 +1,9 @@
 import Image from "next/image";
-import "../app/page.module.css";
-import Contactame from "./Contacto";
-import "../style/acerca.css";
+import ContactoComponent from "./Contacto";
+import '../style/gobal.css'
 
 
-export default function AcercaDeMi() {
+export default function AcercaComponent() {
   return (
     <section>
       <article className="acerca1 ">
@@ -24,7 +23,7 @@ export default function AcercaDeMi() {
           </div>
 
           <div className="texto-c">
-            <Contactame />
+            <ContactoComponent />
           </div>
           
         </div>

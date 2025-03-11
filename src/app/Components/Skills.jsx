@@ -1,11 +1,7 @@
 import Image from "next/image";
-import "../app/page.module.css";
-import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
-import { faJs } from "@fortawesome/free-brands-svg-icons";
-import "../style/skills.css";
+import '../style/gobal.css'
 
-
-export default function MisSkills () {
+export default function MisSkillsComponent () {
     return(
         <div className="my-skills">
             <div> 

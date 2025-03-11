@@ -1,13 +1,11 @@
-import Image from "next/image";
-import styles from "./page.module.css";
-import NavbarPrincipal from "../pages/Navbar";
+import NavBarPrincipal from "./Pages/navBar";
 
 export default function Home() {
   return (
    <>
    <main className="fondo">
     <div>
-      <NavbarPrincipal />
+      <NavBarPrincipal />
     </div>
    </main>
    </>

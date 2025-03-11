@@ -1,12 +1,9 @@
 import Image from 'next/image';
-import '../app/page.module.css';
+import '../style/gobal.css'
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
-import { faCloudArrowUp, faEnvelope, faEnvelopeSquare, faPhone, faSquarePhone } from '@fortawesome/free-solid-svg-icons';
-import { faGithub, faLinkedin, faSquareGithub, faWhatsapp } from '@fortawesome/free-brands-svg-icons';
-import "../style/contacto.css";
-import Link from 'next/link';
+import { faCloudArrowUp } from '@fortawesome/free-solid-svg-icons';
 
-export default function Contactame () {
+export default function ContactoComponent () {
     return(
         <section className='my-contact'>
             <div >
