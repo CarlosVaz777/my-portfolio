@@ -24,7 +24,7 @@ export default function PiePaginaComponent () {
                 <div>
                     <span className='chip-footer'>
                         <a href="" target="_blank" rel="noopener noreferrer" className='text-cv'>
-                        < Image src="/img/whatsapp.png" width={50} height={40} alt="Html" className='icon-footer'/>
+                        < Image src="/img/whatsapp.png" width={50} height={40} alt="W..." className='icon-footer'/>
                         </a> 
                     </span>
                 </div>
@@ -32,7 +32,7 @@ export default function PiePaginaComponent () {
                 <div>
                     <span className='chip-footer'>
                         <a href="http://mail.google.com" target="_blank" rel="noopener noreferrer">
-                        < Image src="/img/em.png" width={50} height={30} alt="Html" className='icon-footer'/> 
+                        < Image src="/img/em.png" width={50} height={30} alt="E..." className='icon-footer'/> 
                         </a> 
                     </span>
                 </div>
@@ -40,7 +40,7 @@ export default function PiePaginaComponent () {
                 <div>
                     <span className='chip-footer'>
                         <a href="https://www.linkedin.com/in/carlos-enrique-vazquez-iglesias-3b9888257" target='_blank'>
-                        < Image src="/img/in.png" width={50} height={40} alt="Html" className='icon-footer'/> 
+                        < Image src="/img/in.png" width={50} height={40} alt="L..." className='icon-footer'/> 
                         </a>
                     </span>
                 </div>
@@ -48,7 +48,7 @@ export default function PiePaginaComponent () {
                 <div>
                     <span className='chip-footer'>
                         <a href="https://github.com/CarlosVaz777" target="_blank" rel="noopener noreferrer">
-                        < Image src="/img/gt.png" width={50} height={40} alt="Html" className='icon-footer'/>
+                        < Image src="/img/gt.png" width={50} height={40} alt="G..." className='icon-footer'/>
                         </a>
                     </span>
                 </div>

@@ -14,7 +14,7 @@ export default function MisSkillsComponent () {
                         <h5>Lenguajes de Programación</h5>
                         <div >
                             <Image className="image" src="/img/php.png" width={90} height={50} alt="Php" />
-                            <Image className="image" src="/img/php.png" width={90} height={50} alt="Php"/>
+                            <Image className="image" src="/img/php.png" width={90} height={50} alt="Php2"/>
                             <Image className="image" src="/img/c.png" width={90} height={50} alt="C#"/>
                             <Image className="image" src="/img/js.png" width={90} height={50} alt="JavaScript"/>
                         </div>
@@ -26,7 +26,7 @@ export default function MisSkillsComponent () {
                         <div>
                             <h5>Bases de Datos Relacionales </h5>
                             <div className="html-icon">
-                                <Image className="image" src="/img/sql.png" width={90} height={50} alt="SQL Server"/>
+                                <Image className="image" src="/img/sql.png" width={90} height={50} alt="SQLServer"/>
                                 <Image className="image" src="/img/mysql.png" width={80} height={50} alt="MYSQL"/>
                             </div>
                         </div>
@@ -69,7 +69,7 @@ export default function MisSkillsComponent () {
                             <div className="html-icon">
                                 < Image className="chip-sk" src="/img/html.png" width={90} height={50} alt="Html"/>
                                 <Image className="chip-sk" src="/img/css.png" width={90} height={50} alt="Css"/>
-                                <Image className="chip-sk" src="/img/js.png" width={90} height={50} alt="JavaScript"/>
+                                <Image className="chip-sk" src="/img/js.png" width={90} height={50} alt="Code JavaScript"/>
                                 <Image className="chip-sk" src="/img/jq.png" width={90} height={50} alt="JQuery"/>
                                 <Image className="chip-sk" src="/img/bp.png" width={90} height={50} alt="Boostrap"/>
                                 <Image className="chip-sk" src="/img/fg.png" width={90} height={50} alt="Figma"/>
@@ -84,7 +84,7 @@ export default function MisSkillsComponent () {
                             <h5>Back End</h5>
                             <div className="html-icon">
                                 <Image className="chip-sk" src="/img/dj.png" width={90} height={50} alt="Node JS"/>
-                                <Image className="chip-sk" src="/img/es.png" width={0} height={50} alt="Express"/>
+                                <Image className="chip-sk" src="/img/es.png" width={0} height={50} alt="Express js"/>
                             </div>
                         </div>
                     </div>

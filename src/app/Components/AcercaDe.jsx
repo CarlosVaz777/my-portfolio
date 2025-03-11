@@ -18,7 +18,7 @@ export default function AcercaComponent() {
               height={200}
               priority={true}
               layout="cover"
-              alt="SQL Server"
+              alt="yo..."
             />
           </div>
 

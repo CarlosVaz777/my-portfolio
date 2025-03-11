@@ -22,44 +22,44 @@ return(
                     <ul className="chip-list">
                         <li className="chip-php "><FontAwesomeIcon icon={faPhp} className="chip-img" />php </li>
                         <li className="chip-codeigniter"><FontAwesomeIcon icon={faFireFlameCurved} className="chip-img" />CodeIgniter v3</li>
-                        <li className="chip-slq"> <Image className="chip-img" src="/img/sql-s.png" width={90} height={50} alt="SQL Server"/>SQL Server</li>
-                        <li className="chip-boostrap"><Image className="chip-img" src="/img/bp.png" width={90} height={50} alt="Boostrap"/>Boostrap v4</li>
+                        <li className="chip-slq"> <Image className="chip-img" src="/img/sql-s.png" width={90} height={50} alt="SQL-Server 2022"/>SQL Server</li>
+                        <li className="chip-boostrap"><Image className="chip-img" src="/img/bp.png" width={90} height={50} alt="img B.."/>Boostrap v4</li>
                     </ul>
                 </div>
             </div>
 
             <div className="card2">
-                <Image className="img-proyecto-candy" src={'/img/candy.jpg'} width={550} height={550} alt="" />
+                <Image className="img-proyecto-candy" src={'/img/candy.jpg'} width={50} height={50} alt="" />
                     <div>
                         <h5>Candy Store</h5>
                         <p>Fui líder del Proyecto (Candy Store)</p>
                     </div>
                 <div>
                     <ul className="chip-list">
-                        <li className="chip-html">< Image className="chip-img" src="/img/html.png" width={90} height={50} alt="Html"/>HTML5</li>
-                        <li className="chip-css "><Image className="chip-img" src="/img/css.png" width={90} height={50} alt="Css"/>CSS3</li>
-                        <li className="chip-slq"><Image className="chip-img" src="/img/rn.png" width={90} height={50} alt="React Native"/>React Native</li>
-                        <li className="chip-boostrap"><Image className="chip-img" src="/img/js.png" width={80} height={50} alt="JavaScript"/>JavaScript</li>
-                        <li className="chip-boostrap"><Image className="chip-img" src="/img/ts.png" width={90} height={50} alt="Boostrap"/>TypeScript</li>
-                        <li className="chip-boostrap"><Image className="chip-img" src="/img/fr.png" width={90} height={50} alt="Firebase"/>Firebase</li>
+                        <li className="chip-html">< Image className="chip-img" src="/img/html.png" width={90} height={50} alt="etiqueta-Html"/>HTML5</li>
+                        <li className="chip-css "><Image className="chip-img" src="/img/css.png" width={90} height={50} alt="image css..."/>CSS3</li>
+                        <li className="chip-slq"><Image className="chip-img" src="/img/rn.png" width={90} height={50} alt="RN"/>React Native</li>
+                        <li className="chip-boostrap"><Image className="chip-img" src="/img/js.png" width={80} height={50} alt="JS"/>JavaScript</li>
+                        <li className="chip-boostrap"><Image className="chip-img" src="/img/ts.png" width={90} height={50} alt="Bp"/>TypeScript</li>
+                        <li className="chip-boostrap"><Image className="chip-img" src="/img/fr.png" width={90} height={50} alt="Fb"/>Firebase</li>
                     </ul>
                     <p className='p-ct'>
                         <a href="https://github.com/CarlosVaz777" target="_blank" rel="noopener noreferrer">
-                        < Image src="/img/gt.png" width={40} height={40} alt="Html" className='icon-ct'/>
+                        < Image src="/img/gt.png" width={40} height={40} alt="Gh..." className='icon-ct'/>
                     </a>
                 </p>
                 </div>
             </div>
 
             <div className="card2">
-                <Image className="img-proyecto" src={'/img/rn.png'} width={150} height={150} alt="" />
+                <Image className="img-proyecto" src={'/img/rn.png'} width={150} height={150} alt="P..." />
                     <div>
                         <h5>Operación Diaria</h5>
                         <p>Forme parte del proyecto (Operdia)</p>
                     </div>
                     <div>
                     <ul className="chip-list">
-                        <li className="chip-html">< Image className="chip-img" src="/img/html.png" width={90} height={50} alt="Html"/>HTML5</li>
+                        <li className="chip-html">< Image className="chip-img" src="/img/html.png" width={90} height={50} alt="Html..."/>HTML5</li>
                         <li className="chip-css "><Image className="chip-img" src="/img/css.png" width={90} height={50} alt="Css"/>CSS3</li>
                         <li className="chip-slq"><Image className="chip-img" src="/img/c.png" width={90} height={50} alt="React Native"/>C#</li>
                         <li className="chip-boostrap"><Image className="chip-img" src="/img/as.jpg" width={80} height={50} alt="JavaScript"/>ASP .Net</li>
@@ -76,9 +76,9 @@ return(
                     </div>
                 <div>
                     <ul className="chip-list">
-                        <li className="chip-html">< Image className="chip-img" src="/img/ar.png" width={90} height={50} alt="Html"/>Arduino</li>
+                        <li className="chip-html">< Image className="chip-img" src="/img/ar.png" width={90} height={50} alt="Html5"/>Arduino</li>
                         <li className="chip-css "><Image className="chip-img" src="/img/pt.png" width={90} height={50} alt="Css"/>Python</li>
-                        <li className="chip-slq"><Image className="chip-img" src="/img/ad.png" width={90} height={50} alt="React Native"/>Android Studio</li>
+                        <li className="chip-slq"><Image className="chip-img" src="/img/ad.png" width={90} height={50} alt="React"/>Android Studio</li>
                         <li className="chip-boostrap"><Image className="chip-img" src="/img/a.png" width={80} height={50} alt="JavaScript"/>Angular</li>
                         <li className="chip-boostrap"> <Image className="chip-img" src="/img/pma.png" width={90} height={50} alt="SQL Server"/> PhpMyAdmin</li>
                     </ul>
@@ -93,9 +93,9 @@ return(
                 </div>
                 <div>
                     <ul className="chip-list">
-                        <li className="chip-html">< Image className="chip-img" src="/img/html.png" width={90} height={50} alt="Html"/>HTML5</li>
-                        <li className="chip-css "><Image className="chip-img" src="/img/css.png" width={90} height={50} alt="Css"/>CSS3</li>
-                        <li className="chip-boostrap"><Image className="chip-img" src="/img/js.png" width={80} height={50} alt="JavaScript"/>JavaScript</li>
+                        <li className="chip-html">< Image className="chip-img" src="/img/html.png" width={90} height={50} alt="img html..."/>HTML5</li>
+                        <li className="chip-css "><Image className="chip-img" src="/img/css.png" width={90} height={50} alt="CSS3"/>CSS3</li>
+                        <li className="chip-boostrap"><Image className="chip-img" src="/img/js.png" width={80} height={50} alt="JavaScript...."/>JavaScript</li>
                     </ul>
                 </div>
             </div>
