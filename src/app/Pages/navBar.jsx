@@ -15,7 +15,7 @@ export default function NavBarPrincipal (){
                 <nav className="navbar bg-primary ">
                 <div className="container-fluid">
                     <a className="navbar-brand" href="/">
-                    <h3 className="titulo-p">CEVI.DEV</h3>
+                    <h3 className="titulo-p">cevidev 🚀</h3>
                     </a>
                 </div>
                 </nav>
